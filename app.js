@@ -65,5 +65,4 @@ const startGame = () => {
     gameIsRunning = false;
 }
 
-
 startGameBtn.addEventListener('click', startGame);
